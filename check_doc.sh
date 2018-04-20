@@ -6,7 +6,7 @@ while read -r LINE; do
     sleep 2
 done < urls.tmp
 date
-if cat urls_result.tmp | grep '000 ' ;
+if grep '000 ' urls_result.tmp ;
 then
   echo "URL check error."
   exit 1
