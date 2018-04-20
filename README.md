@@ -35,7 +35,13 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [Video.js](https://github.com/videojs/video.js) - open source HTML5 & Flash video player.
 - [vlc](https://github.com/videolan/vlc) - VLC media player.
 
-## Go libraries
+### Language and platform specific libraries
+
+#### iOS / Swift
+
+- [PBJVision](https://github.com/piemonte/PBJVision) - iOS Media Capture – features touch-to-record video, slow motion, and photography.
+
+#### Go 
 
 - [gmf](https://github.com/3d0c/gmf) - Go bindings for FFmpeg av\* libraries.
 - [go-astisub](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.).
@@ -45,9 +51,12 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [libgosubs](https://github.com/wargarblgarbl/libgosubs) - Subtitle format support for go. Supports .srt, .ttml, and .ass.
 - [v4l](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.
 
-## Metadata
+#### Rust 
 
 - [mp4parse-rust](https://github.com/mozilla/mp4parse-rust) - Parser for ISO Base Media Format aka video/mp4 written in Rust.
+
+## Metadata
+
 - [mpi](https://github.com/sitkevij/mpi) - Rust-based MPEG-4 box inspector with TOML output.
 - [photon](https://github.com/Netflix/photon) - Java implementation of the SMPTE standard, Interoperable Master Format (IMF).
 
