@@ -1,7 +1,12 @@
 sudo: required
 language: bash
 
+before_install:
+  - sudo apt-get update -qq
+  - sudo apt-get install -qq shellcheck
+
 script:
+  - shellcheck check_doc.sh
   - ./check_doc.sh
   - cat urls_results.tmp
 
