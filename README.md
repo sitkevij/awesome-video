@@ -9,14 +9,23 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 ## Captions and Subtitles
 
 - [vtt.js](https://github.com/mozilla/vtt.js) - A JavaScript implementation of the WebVTT specification.
-- [WebVTT](https://www.w3.org/TR/webvtt1/) - WebVTT W3C 'Web Video Text Tracks Format'.
+- [WebVTT](https://www.w3.org/TR/webvtt1/) - WebVTT W3C 'Web Video Text Tracks Format' specification.
+
+## Conferences
+
+- [Demuxed](http://demuxed.com) - The conference and community for developers working with video.
+
+## Conferencing
+
+- [Jitsi Meet](https://github.com/jitsi/jitsi-meet) - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 
 ## Learning Resources
 
-- [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
+- [digital video introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
  
 ## Players
 
+- [chimee](https://github.com/Chimeejs/chimee) - A video player framework aims to bring wonderful experience on browser.
 - [hls.js](https://github.com/video-dev/hls.js) - JavaScript HLS client using Media Source Extension (MSE).
 - [iina](https://github.com/lhc70000/iina) - The modern video player for macOS.
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
