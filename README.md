@@ -2,7 +2,7 @@
 [![build](https://travis-ci.org/sitkevij/awesome-video.svg?branch=master)](https://travis-ci.org/sitkevij/awesome-video)
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-A curated list of awesome video frameworks, libraries, specifications and software. 
+A curated list of awesome video frameworks, libraries, specifications and software.
 
 ### Contributing
 
@@ -42,18 +42,18 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 ## Learning Resources
 
 - [digital video introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
- 
+
 ## Players
 
 - [chimee](https://github.com/Chimeejs/chimee) - A video player framework aims to bring wonderful experience on browser.
-- [clappr](https://github.com/clappr/clappr) - An extensible media player for the web. 
-- [ExoPlayer](https://github.com/google/ExoPlayer) - An extensible media player for Android
+- [clappr](https://github.com/clappr/clappr) - An extensible media player for the web.
+- [ExoPlayer](https://github.com/google/ExoPlayer) - An extensible media player for Android.
 - [hls.js](https://github.com/video-dev/hls.js) - JavaScript HLS client using Media Source Extension (MSE).
 - [iina](https://github.com/lhc70000/iina) - The modern video player for macOS.
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 - [mpv](https://github.com/mpv-player/mpv) - Video player based on MPlayer/mplayer2.
-- [shaka-player](https://github.com/google/shaka-player) - JavaScript player library / DASH client / MSE-EME player
+- [shaka-player](https://github.com/google/shaka-player) - JavaScript player library / DASH client / MSE-EME player.
 - [Video.js](https://github.com/videojs/video.js) - open source HTML5 & Flash video player.
 - [vlc](https://github.com/videolan/vlc) - VLC media player.
 
@@ -66,7 +66,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 #### Javascript
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Javascript FFmpeg bindings, port of FFmpeg with Emscripten.
 
-#### Go 
+#### Go
 
 - [gmf](https://github.com/3d0c/gmf) - Go bindings for FFmpeg av\* libraries.
 - [go-astisub](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.).
@@ -76,7 +76,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [libgosubs](https://github.com/wargarblgarbl/libgosubs) - Subtitle format support for go. Supports .srt, .ttml, and .ass.
 - [v4l](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.
 
-#### Rust 
+#### Rust
 
 - [mp4parse-rust](https://github.com/mozilla/mp4parse-rust) - Parser for ISO Base Media Format aka video/mp4 written in Rust.
 
@@ -93,6 +93,4 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [lossless-cut](https://github.com/mifi/lossless-cut) - Cross platform GUI tool for lossless trimming / cutting of video and audio files using ffmpeg.
 - [MLT](https://github.com/mltframework/mlt) - MLT Multimedia Framework.
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python.
-- [vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library. 
-
-
+- [vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library.
