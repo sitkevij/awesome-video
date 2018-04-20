@@ -1,0 +1,4 @@
+os: linux 
+
+script:
+  - check_doc.sh
