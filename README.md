@@ -11,11 +11,19 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [vtt.js](https://github.com/mozilla/vtt.js) - A JavaScript implementation of the WebVTT specification.
 - [WebVTT](https://www.w3.org/TR/webvtt1/) - WebVTT W3C 'Web Video Text Tracks Format'.
 
+## Learning Resources
+
+- [digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
+ 
 ## Players
 
-- [Video.js](https://github.com/videojs/video.js) - open source HTML5 & Flash video player.
-- [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+- [hls.js](https://github.com/video-dev/hls.js) - JavaScript HLS client using Media Source Extension (MSE).
 - [iina](https://github.com/lhc70000/iina) - The modern video player for macOS.
+- [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+- [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
+- [mpv](https://github.com/mpv-player/mpv) - Video player based on MPlayer/mplayer2.
+- [clappr](https://github.com/clappr/clappr) - An extensible media player for the web. 
+- [Video.js](https://github.com/videojs/video.js) - open source HTML5 & Flash video player.
 - [vlc](https://github.com/videolan/vlc) - VLC media player.
 
 ## Go libraries
@@ -38,3 +46,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 - [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 - [Flowblade](https://github.com/jliljebl/flowblade) - Video editor for Linux.
+- [gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF.
+- [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python.
+
+
