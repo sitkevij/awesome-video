@@ -56,8 +56,11 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 ### Language and platform specific libraries
 
 #### iOS Swift
-
+- [FFmpeg-iOS-build](https://github.com/kewlbear/FFmpeg-iOS-build-script) - Shell scripts to build FFmpeg for iOS and tvOS.
 - [PBJVision](https://github.com/piemonte/PBJVision) - iOS Media Capture – features touch-to-record video, slow motion, and photography.
+
+#### Javascript
+- [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - ffmpeg bindings for Javascript, port of FFmpeg with Emscripten.
 
 #### Go 
 
