@@ -7,7 +7,7 @@ A curated list of awesome video frameworks, libraries, specifications and softwa
 
 Please take a look at the [contribution guidelines](https://github.com/sitkevij/awesome-video/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/sitkevij/awesome-video/graphs/contributors).
 
-- [AR/VR](#ar-vr)
+- [AR VR](#ar-vr)
 - [Captions and Subtitles](#captions-and-subtitles)
 - [Conferences](#conferences)
 - [Conferencing](#conferencing)
@@ -60,7 +60,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [PBJVision](https://github.com/piemonte/PBJVision) - iOS Media Capture – features touch-to-record video, slow motion, and photography.
 
 #### Javascript
-- [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - ffmpeg bindings for Javascript, port of FFmpeg with Emscripten.
+- [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Javascript FFmpeg bindings, port of FFmpeg with Emscripten.
 
 #### Go 
 
