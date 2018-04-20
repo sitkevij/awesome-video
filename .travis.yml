@@ -8,5 +8,5 @@ before_install:
 script:
   - shellcheck check_doc.sh
   - ./check_doc.sh
-  - cat urls_results.tmp
+  - cat urls_result.tmp
 
