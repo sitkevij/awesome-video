@@ -7,6 +7,7 @@ A curated list of awesome video frameworks, libraries, specifications and softwa
 
 Please take a look at the [contribution guidelines](https://github.com/sitkevij/awesome-video/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/sitkevij/awesome-video/graphs/contributors).
 
+- [AR/VR](#ar-vr)
 - [Captions and Subtitles](#captions-and-subtitles)
 - [Conferences](#conferences)
 - [Conferencing](#conferencing)
@@ -18,6 +19,10 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
     + [Rust](#rust)
 - [Metadata](#metadata)
 - [Media Processing](#media-processing)
+
+## AR/VR
+
+- [ARVideoKit](https://github.com/AFathi/ARVideoKit) - Capture & record ARKit videos, photos, live photos, and GIFs.
 
 ## Captions and Subtitles
 
@@ -78,6 +83,8 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 - [Flowblade](https://github.com/jliljebl/flowblade) - Video editor for Linux.
 - [gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF.
+- [MLT](https://github.com/mltframework/mlt) - MLT Multimedia Framework.
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python.
+- [vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library. 
 
 
