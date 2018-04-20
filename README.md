@@ -46,12 +46,14 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 ## Players
 
 - [chimee](https://github.com/Chimeejs/chimee) - A video player framework aims to bring wonderful experience on browser.
+- [clappr](https://github.com/clappr/clappr) - An extensible media player for the web. 
+- [ExoPlayer](https://github.com/google/ExoPlayer) - An extensible media player for Android
 - [hls.js](https://github.com/video-dev/hls.js) - JavaScript HLS client using Media Source Extension (MSE).
 - [iina](https://github.com/lhc70000/iina) - The modern video player for macOS.
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 - [mpv](https://github.com/mpv-player/mpv) - Video player based on MPlayer/mplayer2.
-- [clappr](https://github.com/clappr/clappr) - An extensible media player for the web. 
+- [shaka-player](https://github.com/google/shaka-player) - JavaScript player library / DASH client / MSE-EME player
 - [Video.js](https://github.com/videojs/video.js) - open source HTML5 & Flash video player.
 - [vlc](https://github.com/videolan/vlc) - VLC media player.
 
