@@ -3,3 +3,5 @@ language: bash
 
 script:
   - ./check_doc.sh
+  - cat urls_results.tmp
+
