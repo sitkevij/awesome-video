@@ -7,7 +7,7 @@ A curated list of awesome video frameworks, libraries, specifications and softwa
 
 Please take a look at the [contribution guidelines](https://github.com/sitkevij/awesome-video/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/sitkevij/awesome-video/graphs/contributors).
 
-- [AR VR](#ar-vr)
+- [AR/VR](#arvr)
 - [Captions and Subtitles](#captions-and-subtitles)
 - [Conferences](#conferences)
 - [Conferencing](#conferencing)
@@ -15,6 +15,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [Players](#players)
   * [Language and platform specific libraries](#language-and-platform-specific-libraries)
     + [iOS Swift](#ios-swift)
+    + [Javascript](#javascript)
     + [Go](#go)
     + [Rust](#rust)
 - [Metadata](#metadata)
