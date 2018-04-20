@@ -1,4 +1,5 @@
 # Awesome Video Resources
+[![build](https://travis-ci.org/sitkevij/awesome-video.svg?branch=master)](https://travis-ci.org/sitkevij/awesome-video)
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of awesome video frameworks, libraries, specifications and software. 
