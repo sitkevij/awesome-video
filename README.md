@@ -2,6 +2,8 @@
 
 A curated list of awesome video frameworks, libraries, specifications and software. 
 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
 ### Contributing
 
 Please take a look at the [contribution guidelines](https://github.com/sitkevij/awesome-video/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/sitkevij/awesome-video/graphs/contributors).
