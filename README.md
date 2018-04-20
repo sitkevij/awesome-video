@@ -87,6 +87,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 - [Flowblade](https://github.com/jliljebl/flowblade) - Video editor for Linux.
 - [gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF.
+- [lossless-cut](https://github.com/mifi/lossless-cut) - Cross platform GUI tool for lossless trimming / cutting of video and audio files using ffmpeg.
 - [MLT](https://github.com/mltframework/mlt) - MLT Multimedia Framework.
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python.
 - [vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library. 
