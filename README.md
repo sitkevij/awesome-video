@@ -1,12 +1,23 @@
 # Awesome Video Resources
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of awesome video frameworks, libraries, specifications and software. 
-
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 ### Contributing
 
 Please take a look at the [contribution guidelines](https://github.com/sitkevij/awesome-video/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/sitkevij/awesome-video/graphs/contributors).
+
+- [Captions and Subtitles](#captions-and-subtitles)
+- [Conferences](#conferences)
+- [Conferencing](#conferencing)
+- [Learning Resources](#learning-resources)
+- [Players](#players)
+  * [Language and platform specific libraries](#language-and-platform-specific-libraries)
+    + [iOS Swift](#ios-swift)
+    + [Go](#go)
+    + [Rust](#rust)
+- [Metadata](#metadata)
+- [Media Processing](#media-processing)
 
 ## Captions and Subtitles
 
@@ -39,7 +50,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 ### Language and platform specific libraries
 
-#### iOS / Swift
+#### iOS Swift
 
 - [PBJVision](https://github.com/piemonte/PBJVision) - iOS Media Capture – features touch-to-record video, slow motion, and photography.
 
