@@ -8,7 +8,7 @@ A curated list of awesome video frameworks, libraries, specifications and softwa
 
 Please take a look at the [contribution guidelines](https://github.com/sitkevij/awesome-video/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/sitkevij/awesome-video/graphs/contributors).
 
-- [AR/VR](#arvr)
+- [AR/VR/360](#arvr360)
 - [Captions and Subtitles](#captions-and-subtitles)
 - [Conferences](#conferences)
 - [Conferencing](#conferencing)
@@ -22,9 +22,10 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [Metadata](#metadata)
 - [Media Processing](#media-processing)
 
-## AR/VR
+## AR/VR/360
 
 - [ARVideoKit](https://github.com/AFathi/ARVideoKit) - Capture & record ARKit videos, photos, live photos, and GIFs.
+- [kaleidoscope](https://github.com/thiagopnts/kaleidoscope) - An embeddable, lightweight 360º video/image viewer.
 
 ## Captions and Subtitles
 
@@ -42,6 +43,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 ## Learning Resources
 
 - [digital video introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
+- [Live Stream from Desktop](https://github.com/leandromoreira/live-stream-from-desktop) - Provide guidance to test live streaming (mpeg-dash or hls) or vod from your desktop
 
 ## Players
 
@@ -75,6 +77,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [gst](https://github.com/ziutek/gst) - Go bindings for GStreamer.
 - [libgosubs](https://github.com/wargarblgarbl/libgosubs) - Subtitle format support for go. Supports .srt, .ttml, and .ass.
 - [v4l](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.
+- [snickers](http://github.com/snickers/snickers) - An open source alternative to the video cloud encoding services.
 
 #### Rust
 
@@ -94,3 +97,5 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [MLT](https://github.com/mltframework/mlt) - MLT Multimedia Framework.
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python.
 - [vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library.
+- [video-transcoding-api](https://github.com/NYTimes/video-transcoding-api) - Agnostic API to transcode media assets across different cloud services.
+- [video-thumbnail-generator](https://github.com/flavioribeiro/video-thumbnail-generator) - Generate thumbnail sprites from videos.
