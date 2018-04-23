@@ -96,6 +96,8 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [lossless-cut](https://github.com/mifi/lossless-cut) - Cross platform GUI tool for lossless trimming / cutting of video and audio files using ffmpeg.
 - [MLT](https://github.com/mltframework/mlt) - MLT Multimedia Framework.
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python.
+- [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server.
+- [nginx-vod-module](https://github.com/kaltura/nginx-vod-module) - NGINX-based MP4 Repackager.
 - [vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library.
 - [video-transcoding-api](https://github.com/NYTimes/video-transcoding-api) - Agnostic API to transcode media assets across different cloud services.
 - [video-thumbnail-generator](https://github.com/flavioribeiro/video-thumbnail-generator) - Generate thumbnail sprites from videos.
