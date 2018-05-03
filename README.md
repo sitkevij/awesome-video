@@ -18,6 +18,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
     + [iOS Swift](#ios-swift)
     + [Javascript](#javascript)
     + [Go](#go)
+    + [Python](#python)
     + [Rust](#rust)
 - [Metadata](#metadata)
 - [Media Processing](#media-processing)
@@ -67,6 +68,19 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 #### Javascript
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Javascript FFmpeg bindings, port of FFmpeg with Emscripten.
+
+#### Python
+- [django-video-encoding](https://github.com/escaped/django-video-encoding) - django-video-encoding helps to convert your videos into different formats and resolutions.
+- [ffmpy](https://github.com/Ch00k/ffmpy) - Pythonic interface for FFmpeg/FFprobe command line.
+- [hls-analyzer](https://github.com/epiclabs-io/hls-analyzer) - Analyzer for HTTP Live Streams (HLS) content.
+- [hls-relay](https://github.com/Eyevinn/hls-relay) - Script to pull HLS stream from one origin and push to another origin.
+- [hls-to-dash](https://github.com/Eyevinn/hls-to-dash) - Open source packager and tools to rewrap live HLS to live MPEG DASH.
+- [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions.
+- [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python.
+- [pychromecast](https://github.com/balloob/pychromecast) - Library for Python 3 to communicate with the Google Chromecast.
+- [python-video-converter](https://github.com/senko/python-video-converter) - Python Video Converter (ffmpeg wrapper).
+- [vod-to-live](https://github.com/Eyevinn/vod-to-live) - A python library to generate Live HLS from VOD.
+- [webm.py](https://github.com/Kagami/webm.py) - Encode WebM videos.
 
 #### Go
 
