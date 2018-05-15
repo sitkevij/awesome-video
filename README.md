@@ -52,6 +52,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [clappr](https://github.com/clappr/clappr) - An extensible media player for the web.
 - [ExoPlayer](https://github.com/google/ExoPlayer) - An extensible media player for Android.
 - [hls.js](https://github.com/video-dev/hls.js) - JavaScript HLS client using Media Source Extension (MSE).
+- [dash.js](https://github.com/Dash-Industry-Forum/dash.js) - JavaScript DASH client using Media Source Extension (MSE).
 - [iina](https://github.com/lhc70000/iina) - The modern video player for macOS.
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
