@@ -113,6 +113,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python.
 - [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server.
 - [nginx-vod-module](https://github.com/kaltura/nginx-vod-module) - NGINX-based MP4 Repackager.
+- [QCtools](https://github.com/bavc/qctools) - Quality Control Tools for Video Preservation, helps users to analyze and understand digitized video files.
 - [shaka-packager](https://github.com/google/shaka-packager) - A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
 - [vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library.
 - [video-transcoding-api](https://github.com/NYTimes/video-transcoding-api) - Agnostic API to transcode media assets across different cloud services.
