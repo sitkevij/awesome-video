@@ -72,6 +72,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 #### Python
 - [django-video-encoding](https://github.com/escaped/django-video-encoding) - django-video-encoding helps to convert your videos into different formats and resolutions.
+- [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support.
 - [ffmpy](https://github.com/Ch00k/ffmpy) - Pythonic interface for FFmpeg/FFprobe command line.
 - [hls-analyzer](https://github.com/epiclabs-io/hls-analyzer) - Analyzer for HTTP Live Streams (HLS) content.
 - [hls-relay](https://github.com/Eyevinn/hls-relay) - Script to pull HLS stream from one origin and push to another origin.
