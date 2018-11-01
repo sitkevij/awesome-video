@@ -44,6 +44,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 ## Learning Resources
 
 - [digital video introduction](https://github.com/leandromoreira/digital_video_introduction) - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).
+- [ffmpeg encoding course](https://github.com/slhck/ffmpeg-encoding-course) - An introduction to FFmpeg and its tools.
 - [Live Stream from Desktop](https://github.com/leandromoreira/live-stream-from-desktop) - Provide guidance to test live streaming (mpeg-dash or hls) or vod from your desktop
 
 ## Players
