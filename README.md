@@ -72,6 +72,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Javascript FFmpeg bindings, port of FFmpeg with Emscripten.
 
 #### Python
+- [brave](https://github.com/bbc/brave) - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud.
 - [django-video-encoding](https://github.com/escaped/django-video-encoding) - django-video-encoding helps to convert your videos into different formats and resolutions.
 - [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support.
 - [ffmpy](https://github.com/Ch00k/ffmpy) - Pythonic interface for FFmpeg/FFprobe command line.
