@@ -1,10 +1,11 @@
 # Awesome Video Resources
+
 [![build](https://travis-ci.org/sitkevij/awesome-video.svg?branch=master)](https://travis-ci.org/sitkevij/awesome-video)
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of awesome video frameworks, libraries, specifications and software.
 
-### Contributing
+## Contributing
 
 Please take a look at the [contribution guidelines](https://github.com/sitkevij/awesome-video/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/sitkevij/awesome-video/graphs/contributors).
 
@@ -14,12 +15,12 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [Conferencing](#conferencing)
 - [Learning Resources](#learning-resources)
 - [Players](#players)
-  * [Language and platform specific libraries](#language-and-platform-specific-libraries)
-    + [iOS Swift](#ios-swift)
-    + [Javascript](#javascript)
-    + [Go](#go)
-    + [Python](#python)
-    + [Rust](#rust)
+- [Language and platform specific libraries](#language-and-platform-specific-libraries)
+  - [iOS Swift](#ios-swift)
+  - [Javascript](#javascript)
+  - [Go](#go)
+  - [Python](#python)
+  - [Rust](#rust)
 - [Metadata](#metadata)
 - [Media Processing](#media-processing)
 
@@ -58,20 +59,24 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
 - [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 - [mpv](https://github.com/mpv-player/mpv) - Video player based on MPlayer/mplayer2.
+- [plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player.
 - [shaka-player](https://github.com/google/shaka-player) - JavaScript player library / DASH client / MSE-EME player.
 - [Video.js](https://github.com/videojs/video.js) - open source HTML5 & Flash video player.
 - [vlc](https://github.com/videolan/vlc) - VLC media player.
 
-### Language and platform specific libraries
+## Language and platform specific libraries
 
-#### iOS Swift
+### iOS Swift
+
 - [FFmpeg-iOS-build](https://github.com/kewlbear/FFmpeg-iOS-build-script) - Shell scripts to build FFmpeg for iOS and tvOS.
 - [PBJVision](https://github.com/piemonte/PBJVision) - iOS Media Capture – features touch-to-record video, slow motion, and photography.
 
-#### Javascript
+### Javascript
+
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Javascript FFmpeg bindings, port of FFmpeg with Emscripten.
 
-#### Python
+### Python
+
 - [brave](https://github.com/bbc/brave) - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud.
 - [django-video-encoding](https://github.com/escaped/django-video-encoding) - django-video-encoding helps to convert your videos into different formats and resolutions.
 - [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support.
@@ -86,7 +91,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [vod-to-live](https://github.com/Eyevinn/vod-to-live) - A python library to generate Live HLS from VOD.
 - [webm.py](https://github.com/Kagami/webm.py) - Encode WebM videos.
 
-#### Go
+### Go
 
 - [gmf](https://github.com/3d0c/gmf) - Go bindings for FFmpeg av\* libraries.
 - [go-astisub](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.).
@@ -97,7 +102,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [v4l](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.
 - [snickers](http://github.com/snickers/snickers) - An open source alternative to the video cloud encoding services.
 
-#### Rust
+### Rust
 
 - [mp4parse-rust](https://github.com/mozilla/mp4parse-rust) - Parser for ISO Base Media Format aka video/mp4 written in Rust.
 
