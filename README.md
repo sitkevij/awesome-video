@@ -57,6 +57,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [dash.js](https://github.com/Dash-Industry-Forum/dash.js) - JavaScript DASH client using Media Source Extension (MSE).
 - [iina](https://github.com/lhc70000/iina) - The modern video player for macOS.
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.
+- [indigo-player](https://github.com/matvp91/indigo-player) - Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element.
 - [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 - [mpv](https://github.com/mpv-player/mpv) - Video player based on MPlayer/mplayer2.
 - [plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player.
@@ -87,6 +88,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions.
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python.
 - [pychromecast](https://github.com/balloob/pychromecast) - Library for Python 3 to communicate with the Google Chromecast.
+- [PyLivestream](https://github.com/scivision/PyLivestream) - Simple cross-platform FFmpeg-based live streaming to YouTube, Periscope, Twitch, Facebook Live and more.
 - [python-video-converter](https://github.com/senko/python-video-converter) - Python Video Converter (ffmpeg wrapper).
 - [vod-to-live](https://github.com/Eyevinn/vod-to-live) - A python library to generate Live HLS from VOD.
 - [webm.py](https://github.com/Kagami/webm.py) - Encode WebM videos.
