@@ -52,6 +52,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 - [chimee](https://github.com/Chimeejs/chimee) - A video player framework aims to bring wonderful experience on browser.
 - [clappr](https://github.com/clappr/clappr) - An extensible media player for the web.
+- [epic-video-comparator](https://github.com/epiclabs-io/epic-video-comparator) - Javascript library which implements a video comparator component: two overlaped and synchronized video players each one playing an independent source.
 - [ExoPlayer](https://github.com/google/ExoPlayer) - An extensible media player for Android.
 - [hls.js](https://github.com/video-dev/hls.js) - JavaScript HLS client using Media Source Extension (MSE).
 - [dash.js](https://github.com/Dash-Industry-Forum/dash.js) - JavaScript DASH client using Media Source Extension (MSE).
