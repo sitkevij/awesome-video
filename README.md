@@ -128,6 +128,9 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [ott-packager](https://github.com/cannonbeach/ott-packager) - OTT streaming packager supporting ABR streaming for DASH and HLS.
 - [QCtools](https://github.com/bavc/qctools) - Quality Control Tools for Video Preservation, helps users to analyze and understand digitized video files.
 - [shaka-packager](https://github.com/google/shaka-packager) - A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
+- [SVT-AV1](https://github.com/OpenVisualCloud/SVT-AV1) - Scalable Video Technology AV1 encoder.
+- [SVT-HEVC](https://github.com/OpenVisualCloud/SVT-HEVC) - Scalable Video Technology HEVC encoder.
+- [SVT-VP9](https://github.com/OpenVisualCloud/SVT-VP9) - Scalable Video Technology VP9 encoder.
 - [vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library.
 - [video-transcoding-api](https://github.com/NYTimes/video-transcoding-api) - Agnostic API to transcode media assets across different cloud services.
 - [video-thumbnail-generator](https://github.com/flavioribeiro/video-thumbnail-generator) - Generate thumbnail sprites from videos.
