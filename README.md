@@ -99,6 +99,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 ### Go
 
 - [gmf](https://github.com/3d0c/gmf) - Go bindings for FFmpeg av\* libraries.
+- [goffmpeg](https://github.com/xfrr/goffmpeg) - FFMPEG wrapper written in GO.
 - [go-astisub](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.).
 - [go-astits](https://github.com/asticode/go-astits) - Parse and demux MPEG Transport Streams (.ts) natively in GO.
 - [goav](https://github.com/giorgisio/goav) - Comphrensive Go bindings for FFmpeg.
