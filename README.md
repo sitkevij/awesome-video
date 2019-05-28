@@ -63,6 +63,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 - [mpv](https://github.com/mpv-player/mpv) - Video player based on MPlayer/mplayer2.
 - [plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player.
+- [replay](https://github.com/vimond/replay) - A React video player facilitating adaptive stream playback with custom UI and a React-friendly API.
 - [shaka-player](https://github.com/google/shaka-player) - JavaScript player library / DASH client / MSE-EME player.
 - [Video.js](https://github.com/videojs/video.js) - open source HTML5 & Flash video player.
 - [vlc](https://github.com/videolan/vlc) - VLC media player.
