@@ -51,6 +51,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 ## Players
 
+- [bigscreen-player](https://github.com/bbc/bigscreen-player) - Simplify video and audio playback on a wide range of 'bigscreen' devices (TVs, set-top boxes, games consoles, and streaming devices).
 - [chimee](https://github.com/Chimeejs/chimee) - A video player framework aims to bring wonderful experience on browser.
 - [clappr](https://github.com/clappr/clappr) - An extensible media player for the web.
 - [epic-video-comparator](https://github.com/epiclabs-io/epic-video-comparator) - Javascript library which implements a video comparator component: two overlaped and synchronized video players each one playing an independent source.
@@ -77,6 +78,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 ### Javascript
 
+- [jMuxer](https://github.com/samirkumardas/jmuxer) - A simple javascript mp4 muxer for non-standard streaming communications protocol.
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Javascript FFmpeg bindings, port of FFmpeg with Emscripten.
 
 ### Python
