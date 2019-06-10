@@ -51,6 +51,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 ## Players
 
+- [bigscreen-player](https://github.com/bbc/bigscreen-player) - Simplify video and audio playback on a wide range of 'bigscreen' devices (TVs, set-top boxes, games consoles, and streaming devices).
 - [chimee](https://github.com/Chimeejs/chimee) - A video player framework aims to bring wonderful experience on browser.
 - [clappr](https://github.com/clappr/clappr) - An extensible media player for the web.
 - [epic-video-comparator](https://github.com/epiclabs-io/epic-video-comparator) - Javascript library which implements a video comparator component: two overlaped and synchronized video players each one playing an independent source.
@@ -77,6 +78,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 ### Javascript
 
+- [jMuxer](https://github.com/samirkumardas/jmuxer) - A simple javascript mp4 muxer for non-standard streaming communications protocol.
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Javascript FFmpeg bindings, port of FFmpeg with Emscripten.
 
 ### Python
@@ -136,5 +138,6 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [SVT-VP9](https://github.com/OpenVisualCloud/SVT-VP9) - Scalable Video Technology VP9 encoder.
 - [tstools](https://github.com/OlivierLeBozec/tstools) - Display PCR, DTS, PTS, bitrate, jitter of a mpeg TS.
 - [vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library.
+- [videobench](https://github.com/JNoDuq/videobench) - VMAF PSNR Bitrate Analyzer.
 - [video-transcoding-api](https://github.com/NYTimes/video-transcoding-api) - Agnostic API to transcode media assets across different cloud services.
 - [video-thumbnail-generator](https://github.com/flavioribeiro/video-thumbnail-generator) - Generate thumbnail sprites from videos.
