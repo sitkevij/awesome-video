@@ -93,6 +93,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [hls-to-dash](https://github.com/Eyevinn/hls-to-dash) - Open source packager and tools to rewrap live HLS to live MPEG DASH.
 - [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions.
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python.
+- [pycaption](https://github.com/pbs/pycaption) - Python module to read/write popular video caption formats.
 - [pychromecast](https://github.com/balloob/pychromecast) - Library for Python 3 to communicate with the Google Chromecast.
 - [PyLivestream](https://github.com/scivision/PyLivestream) - Simple cross-platform FFmpeg-based live streaming to YouTube, Periscope, Twitch, Facebook Live and more.
 - [python-video-converter](https://github.com/senko/python-video-converter) - Python Video Converter (ffmpeg wrapper).
