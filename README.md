@@ -133,10 +133,12 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [nginx-vod-module](https://github.com/kaltura/nginx-vod-module) - NGINX-based MP4 Repackager.
 - [ott-packager](https://github.com/cannonbeach/ott-packager) - OTT streaming packager supporting ABR streaming for DASH and HLS.
 - [QCtools](https://github.com/bavc/qctools) - Quality Control Tools for Video Preservation, helps users to analyze and understand digitized video files.
+- [qtlmovie](https://github.com/qtlmovie/qtlmovie) - A specialized Qt frontend for FFmpeg and other free media tools.
 - [shaka-packager](https://github.com/google/shaka-packager) - A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
 - [SVT-AV1](https://github.com/OpenVisualCloud/SVT-AV1) - Scalable Video Technology AV1 encoder.
 - [SVT-HEVC](https://github.com/OpenVisualCloud/SVT-HEVC) - Scalable Video Technology HEVC encoder.
 - [SVT-VP9](https://github.com/OpenVisualCloud/SVT-VP9) - Scalable Video Technology VP9 encoder.
+- [tsduck](https://github.com/tsduck/tsduck) - MPEG Transport Stream Toolkit.
 - [tstools](https://github.com/OlivierLeBozec/tstools) - Display PCR, DTS, PTS, bitrate, jitter of a mpeg TS.
 - [vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library.
 - [videobench](https://github.com/JNoDuq/videobench) - VMAF PSNR Bitrate Analyzer.
