@@ -145,3 +145,4 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [videobench](https://github.com/JNoDuq/videobench) - VMAF PSNR Bitrate Analyzer.
 - [video-transcoding-api](https://github.com/NYTimes/video-transcoding-api) - Agnostic API to transcode media assets across different cloud services.
 - [video-thumbnail-generator](https://github.com/flavioribeiro/video-thumbnail-generator) - Generate thumbnail sprites from videos.
+- [vivict](https://github.com/SVT/vivict) - In-browser tool for subjective comparison of the visual quality of different encodings
