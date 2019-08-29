@@ -1,0 +1,19 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v1
+    - name: update and install os
+      run: sudo apt-get update -qq
+      run: sudo apt-get install -qq shellcheck
+    - name: Run multi-line script
+      run: |
+          shellcheck check_doc.sh
+          ./check_doc.sh
+          cat urls_result.tmp
