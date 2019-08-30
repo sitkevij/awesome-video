@@ -9,11 +9,10 @@ jobs:
     
     steps:
     - uses: actions/checkout@v1
-    - name: update and install os
-      run: sudo apt-get update -qq
-      run: sudo apt-get install -qq shellcheck
-    - name: Run multi-line script
+    - name: update and install os multi-line script
       run: |
+          sudo apt-get update -qq
+          sudo apt-get install -qq shellcheck
           shellcheck check_doc.sh
           ./check_doc.sh
           cat urls_result.tmp
