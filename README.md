@@ -134,6 +134,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [nginx-vod-module](https://github.com/kaltura/nginx-vod-module) - NGINX-based MP4 Repackager.
 - [ott-packager](https://github.com/cannonbeach/ott-packager) - OTT streaming packager supporting ABR streaming for DASH and HLS.
 - [QCtools](https://github.com/bavc/qctools) - Quality Control Tools for Video Preservation, helps users to analyze and understand digitized video files.
+- [QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg.
 - [qtlmovie](https://github.com/qtlmovie/qtlmovie) - A specialized Qt frontend for FFmpeg and other free media tools.
 - [shaka-packager](https://github.com/google/shaka-packager) - A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
 - [SVT-AV1](https://github.com/OpenVisualCloud/SVT-AV1) - Scalable Video Technology AV1 encoder.
