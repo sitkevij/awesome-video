@@ -85,6 +85,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 - [atvk](https://github.com/senko/avtk) - Audio/Video toolkit for Python.
 - [brave](https://github.com/bbc/brave) - Basic Real-time AV Editor - allowing you to preview, mix, and route live audio and video streams on the cloud.
+- [dash-live-source-simulator](https://github.com/Dash-Industry-Forum/dash-live-source-simulator) - DASH live source simulator providing reference live content.
 - [django-video-encoding](https://github.com/escaped/django-video-encoding) - django-video-encoding helps to convert your videos into different formats and resolutions.
 - [ffmpeg-python](https://github.com/kkroening/ffmpeg-python) - Python bindings for FFmpeg - with complex filtering support.
 - [ffmpy](https://github.com/Ch00k/ffmpy) - Pythonic interface for FFmpeg/FFprobe command line.
@@ -93,6 +94,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [hls-to-dash](https://github.com/Eyevinn/hls-to-dash) - Open source packager and tools to rewrap live HLS to live MPEG DASH.
 - [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions.
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python.
+- [objective_perceptual_analysis](https://github.com/crunchyroll/objective_perceptual_analysis) - Objective Perceptual Analysis, Compression Karma Predictor.
 - [pycaption](https://github.com/pbs/pycaption) - Python module to read/write popular video caption formats.
 - [pychromecast](https://github.com/balloob/pychromecast) - Library for Python 3 to communicate with the Google Chromecast.
 - [PyLivestream](https://github.com/scivision/PyLivestream) - Simple cross-platform FFmpeg-based live streaming to YouTube, Periscope, Twitch, Facebook Live and more.
