@@ -48,7 +48,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [ffmpeg encoding course](https://github.com/slhck/ffmpeg-encoding-course) - An introduction to FFmpeg and its tools.
 - [List of Streams](https://github.com/bengarney/list-of-streams) - Community list of public test streams for HLS and DASH.
 - [Live Stream from Desktop](https://github.com/leandromoreira/live-stream-from-desktop) - Provide guidance to test live streaming (mpeg-dash or hls) or vod from your desktop
-- [Streaming Onboarding](https://github.com/Eyevinn/streaming-onboarding) - New to streaming and don't know where to start? This is the place for you!
+- [Streaming Onboarding](https://github.com/Eyevinn/streaming-onboarding) - New to streaming and don't know where to start? This is the place for you!.
 
 ## Players
 
