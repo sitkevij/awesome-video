@@ -96,6 +96,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions.
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python.
 - [objective_perceptual_analysis](https://github.com/crunchyroll/objective_perceptual_analysis) - Objective Perceptual Analysis, Compression Karma Predictor.
+- [PyAV](https://github.com/mikeboers/PyAV) - Pythonic bindings for FFmpeg's libraries.
 - [pycaption](https://github.com/pbs/pycaption) - Python module to read/write popular video caption formats.
 - [pychromecast](https://github.com/balloob/pychromecast) - Library for Python 3 to communicate with the Google Chromecast.
 - [PyLivestream](https://github.com/scivision/PyLivestream) - Simple cross-platform FFmpeg-based live streaming to YouTube, Periscope, Twitch, Facebook Live and more.
