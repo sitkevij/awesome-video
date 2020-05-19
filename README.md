@@ -79,6 +79,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 ### Javascript
 
+- [channel-engine](https://github.com/Eyevinn/channel-engine) - VOD to Live Engine Library.
 - [jMuxer](https://github.com/samirkumardas/jmuxer) - A simple javascript mp4 muxer for non-standard streaming communications protocol.
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Javascript FFmpeg bindings, port of FFmpeg with Emscripten.
 
