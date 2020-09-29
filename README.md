@@ -130,6 +130,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 - [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 - [Flowblade](https://github.com/jliljebl/flowblade) - Video editor for Linux.
+- [fluster](https://github.com/fluendo/fluster) - Testing framework for decoders conformance.
 - [gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF.
 - [hlstools](https://github.com/muxinc/hlstools/) - Tools for analyzing and processing hls streams.
 - [lossless-cut](https://github.com/mifi/lossless-cut) - Cross platform GUI tool for lossless trimming / cutting of video and audio files using ffmpeg.
