@@ -64,6 +64,8 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [indigo-player](https://github.com/matvp91/indigo-player) - Highly extensible, modern, JavaScript video player. Handles MPEG-Dash / HLS / MPEG-4 and is built on top of the HTML5 video element.
 - [mobileplayer-ios](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 - [mpv](https://github.com/mpv-player/mpv) - Video player based on MPlayer/mplayer2.
+- [ngx-videogular](https://github.com/videogular/ngx-videogular) - The HTML5 video player for Angular 2 and successor to videogular2.
+- [openplayerjs](https://github.com/openplayerjs/openplayerjs) - Lightweight HTML5 video/audio player with smooth controls and ability to play VAST/VPAID/VMAP ads.
 - [plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player.
 - [replay](https://github.com/vimond/replay) - A React video player facilitating adaptive stream playback with custom UI and a React-friendly API.
 - [shaka-player](https://github.com/google/shaka-player) - JavaScript player library / DASH client / MSE-EME player.
