@@ -116,6 +116,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [goav](https://github.com/giorgisio/goav) - Comphrensive Go bindings for FFmpeg.
 - [gst](https://github.com/ziutek/gst) - Go bindings for GStreamer.
 - [libgosubs](https://github.com/wargarblgarbl/libgosubs) - Subtitle format support for go. Supports .srt, .ttml, and .ass.
+- [libvlc-go](https://github.com/adrg/libvlc-go) - Go bindings for libVLC 2.X/3.X/4.X and high-level media player interface.
 - [v4l](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.
 - [snickers](http://github.com/snickers/snickers) - An open source alternative to the video cloud encoding services.
 
