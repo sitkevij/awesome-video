@@ -133,6 +133,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 ## Media Processing
 
 - [Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH library and tools.
+- [bitrate-plotter](https://github.com/CrypticSignal/bitrate-plotter) - Plots a graph showing the bitrate every second or the bitrate of every GOP.
 - [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 - [Flowblade](https://github.com/jliljebl/flowblade) - Video editor for Linux.
 - [fluster](https://github.com/fluendo/fluster) - Testing framework for decoders conformance.
