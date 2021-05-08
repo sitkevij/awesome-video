@@ -132,6 +132,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 ## Media Processing
 
+- [Av1an](https://github.com/master-of-zen/Av1an) - About Cross-platform command-line AV1 / VP9 / HEVC / H264 / VVC encoding framework with per scene quality encoding.
 - [Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH library and tools.
 - [bitrate-plotter](https://github.com/CrypticSignal/bitrate-plotter) - Plots a graph showing the bitrate every second or the bitrate of every GOP.
 - [easyVmaf](https://github.com/gdavila/easyVmaf) -Python script to easily compute VMAF using FFmpeg. It allows to deinterlace, scale and sync Ref and Distorted video automatically.
