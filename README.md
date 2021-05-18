@@ -144,6 +144,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [lossless-cut](https://github.com/mifi/lossless-cut) - Cross platform GUI tool for lossless trimming / cutting of video and audio files using ffmpeg.
 - [MLT](https://github.com/mltframework/mlt) - MLT Multimedia Framework.
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python.
+- [MpegTsAnalyzer](https://github.com/small-teton/MpegTsAnalyzer) - Analyzer of MPEG2 Transport Stream.
 - [multistreamer](https://github.com/jprjr/multistreamer) - A webapp for publishing video to multiple streaming services at once.
 - [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server.
 - [nginx-vod-module](https://github.com/kaltura/nginx-vod-module) - NGINX-based MP4 Repackager.
