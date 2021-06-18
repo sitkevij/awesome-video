@@ -24,6 +24,17 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [Metadata](#metadata)
 - [Media Processing](#media-processing)
 
+## Analysis tools
+
+- [bitrate-plotter](https://github.com/CrypticSignal/bitrate-plotter) - Plots a graph showing the bitrate every second or the bitrate of every GOP.
+- [MpegTsAnalyzer](https://github.com/small-teton/MpegTsAnalyzer) - Analyzer of MPEG2 Transport Stream.
+- [QCtools](https://github.com/bavc/qctools) - Quality Control Tools for Video Preservation, helps users to analyze and understand digitized video files.
+- [tsduck](https://github.com/tsduck/tsduck) - MPEG Transport Stream Toolkit.
+- [tstools](https://github.com/OlivierLeBozec/tstools) - Display PCR, DTS, PTS, bitrate, jitter of a mpeg TS.
+- [videobench](https://github.com/JNoDuq/videobench) - VMAF PSNR Bitrate Analyzer.
+- [vivict](https://github.com/SVT/vivict) - In-browser tool for subjective comparison of the visual quality of different encodings.
+- [YUView](https://github.com/IENT/YUView) - The Free and Open Source Cross Platform YUV Viewer with an advanced analytics toolset.
+
 ## AR/VR/360
 
 - [ARVideoKit](https://github.com/AFathi/ARVideoKit) - Capture & record ARKit videos, photos, live photos, and GIFs.
@@ -134,7 +145,6 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 - [Av1an](https://github.com/master-of-zen/Av1an) - About Cross-platform command-line AV1 / VP9 / HEVC / H264 / VVC encoding framework with per scene quality encoding.
 - [Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH library and tools.
-- [bitrate-plotter](https://github.com/CrypticSignal/bitrate-plotter) - Plots a graph showing the bitrate every second or the bitrate of every GOP.
 - [easyVmaf](https://github.com/gdavila/easyVmaf) -Python script to easily compute VMAF using FFmpeg. It allows to deinterlace, scale and sync Ref and Distorted video automatically.
 - [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 - [Flowblade](https://github.com/jliljebl/flowblade) - Video editor for Linux.
@@ -144,23 +154,18 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [lossless-cut](https://github.com/mifi/lossless-cut) - Cross platform GUI tool for lossless trimming / cutting of video and audio files using ffmpeg.
 - [MLT](https://github.com/mltframework/mlt) - MLT Multimedia Framework.
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python.
-- [MpegTsAnalyzer](https://github.com/small-teton/MpegTsAnalyzer) - Analyzer of MPEG2 Transport Stream.
 - [multistreamer](https://github.com/jprjr/multistreamer) - A webapp for publishing video to multiple streaming services at once.
 - [nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server.
 - [nginx-vod-module](https://github.com/kaltura/nginx-vod-module) - NGINX-based MP4 Repackager.
 - [ott-packager](https://github.com/cannonbeach/ott-packager) - OTT streaming packager supporting ABR streaming for DASH and HLS.
 - [PHP-FFmpeg-video-streaming](https://github.com/aminyazdanpanah/PHP-FFmpeg-video-streaming) - Package media content for online streaming(DASH and HLS) using FFmpeg.
-- [QCtools](https://github.com/bavc/qctools) - Quality Control Tools for Video Preservation, helps users to analyze and understand digitized video files.
 - [QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg.
 - [qtlmovie](https://github.com/qtlmovie/qtlmovie) - A specialized Qt frontend for FFmpeg and other free media tools.
 - [shaka-packager](https://github.com/google/shaka-packager) - A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
 - [SVT-AV1](https://github.com/OpenVisualCloud/SVT-AV1) - Scalable Video Technology AV1 encoder.
 - [SVT-HEVC](https://github.com/OpenVisualCloud/SVT-HEVC) - Scalable Video Technology HEVC encoder.
 - [SVT-VP9](https://github.com/OpenVisualCloud/SVT-VP9) - Scalable Video Technology VP9 encoder.
-- [tsduck](https://github.com/tsduck/tsduck) - MPEG Transport Stream Toolkit.
-- [tstools](https://github.com/OlivierLeBozec/tstools) - Display PCR, DTS, PTS, bitrate, jitter of a mpeg TS.
 - [vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library.
-- [videobench](https://github.com/JNoDuq/videobench) - VMAF PSNR Bitrate Analyzer.
 - [video-transcoding-api](https://github.com/NYTimes/video-transcoding-api) - Agnostic API to transcode media assets across different cloud services.
 - [video-thumbnail-generator](https://github.com/flavioribeiro/video-thumbnail-generator) - Generate thumbnail sprites from videos.
-- [vivict](https://github.com/SVT/vivict) - In-browser tool for subjective comparison of the visual quality of different encodings
+
