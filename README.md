@@ -33,6 +33,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [tstools](https://github.com/OlivierLeBozec/tstools) - Display PCR, DTS, PTS, bitrate, jitter of a mpeg TS.
 - [videobench](https://github.com/JNoDuq/videobench) - VMAF PSNR Bitrate Analyzer.
 - [vivict](https://github.com/SVT/vivict) - In-browser tool for subjective comparison of the visual quality of different encodings.
+- [VTCLab Media Analyzer](https://media-analyzer.pro) - In-browser tool that helps to analyze the internal structure of MPEG-TS and MP4/MOV files.
 - [YUView](https://github.com/IENT/YUView) - The Free and Open Source Cross Platform YUV Viewer with an advanced analytics toolset.
 
 ## AR/VR/360
