@@ -149,6 +149,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH library and tools.
 - [easyVmaf](https://github.com/gdavila/easyVmaf) -Python script to easily compute VMAF using FFmpeg. It allows to deinterlace, scale and sync Ref and Distorted video automatically.
 - [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
+- [ffmpeg-explorer](https://github.com/antiboredom/ffmpeg-explorer/) - Interactive FFMPEG Command Generator.
 - [Flowblade](https://github.com/jliljebl/flowblade) - Video editor for Linux.
 - [fluster](https://github.com/fluendo/fluster) - Testing framework for decoders conformance.
 - [gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF.
