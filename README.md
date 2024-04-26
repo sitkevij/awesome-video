@@ -99,7 +99,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [jMuxer](https://github.com/samirkumardas/jmuxer) - A simple javascript mp4 muxer for non-standard streaming communications protocol.
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Javascript FFmpeg bindings, port of FFmpeg with Emscripten.
 - [remotion](https://github.com/remotion-dev/remotion) - Create Videos programmatically with React
-- [Revideo](https://github.com/redotvideo/revideo) - A Typescript framework for programmatic video creation & editing
+- [Revideo](https://github.com/redotvideo/revideo) - A Typescript framework for programmatic video creation & editing.
 
 ### Python
 
