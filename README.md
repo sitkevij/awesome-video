@@ -9,6 +9,7 @@ A curated list of awesome video frameworks, libraries, specifications and softwa
 
 Please take a look at the [contribution guidelines](https://github.com/sitkevij/awesome-video/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/sitkevij/awesome-video/graphs/contributors).
 
+- [Analysis Tools](#analysis-tools)
 - [AR/VR/360](#arvr360)
 - [Captions and Subtitles](#captions-and-subtitles)
 - [Conferences](#conferences)
@@ -36,7 +37,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [VTCLab Media Analyzer](https://media-analyzer.pro) - In-browser tool that helps to analyze the internal structure of MPEG-TS and MP4/MOV files.
 - [YUView](https://github.com/IENT/YUView) - The Free and Open Source Cross Platform YUV Viewer with an advanced analytics toolset.
 - [plot-av](https://github.com/wangyoucao577/plot-av)  - Plot Audio/Video streams for better insights.
-
+- [HLS tools for VS Code](https://github.com/wabiloo/vscode-m3u8-language) - Visual Studio Code extension for syntax highlighting and tools to work with M3U8 files (HLS) 
 
 ## AR/VR/360
 
@@ -100,6 +101,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Javascript FFmpeg bindings, port of FFmpeg with Emscripten.
 - [remotion](https://github.com/remotion-dev/remotion) - Create Videos programmatically with React
 - [Revideo](https://github.com/redotvideo/revideo) - A Typescript framework for programmatic video creation & editing.
+- [scte35-annotated](https://github.com/wabiloo/scte35-js-annotated) - A CLI and library to parse and annotate binary and hex SCTE35 payloads.
 
 ### Python
 
@@ -114,6 +116,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [hls-to-dash](https://github.com/Eyevinn/hls-to-dash) - Open source packager and tools to rewrap live HLS to live MPEG DASH.
 - [m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions.
 - [moviepy](https://github.com/Zulko/moviepy) - Video editing with Python.
+- [mpd-inspector](https://github.com/wabiloo/mpd-inspector) - MPD parser and inspector for MPEG-DASH streams.
 - [objective_perceptual_analysis](https://github.com/crunchyroll/objective_perceptual_analysis) - Objective Perceptual Analysis, Compression Karma Predictor.
 - [PyAV](https://github.com/mikeboers/PyAV) - Pythonic bindings for FFmpeg's libraries.
 - [pycaption](https://github.com/pbs/pycaption) - Python module to read/write popular video caption formats.
