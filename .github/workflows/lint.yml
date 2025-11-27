@@ -1,0 +1,27 @@
+name: lint-readme
+
+on: [push]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install dependencies
+        run: npm ci
+      - name: Run markdownlint
+        run: npx markdownlint-cli2 "**/*.md" "#node_modules"
+      - name: update and install os multi-line script
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -qq shellcheck
+          shellcheck check_link.sh
+      - name: Run lint_readme.sh
+        run: |
+          chmod +x lint_readme.sh
+          ./lint_readme.sh

@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "husky": "^9.1.7"
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.19.1"
+  },
+  "scripts": {
+    "prepare": "husky",
+    "test": "npm run lint && npm run lint-readme && npm run shellcheck",
+    "lint": "markdownlint-cli2 --config .markdownlint-cli2.jsonc *.md",
+    "lint-readme": "./lint_readme.sh",
+    "shellcheck": "shellcheck lint_readme.sh",
+    "clean": "rm -f urls.tmp urls_result.tmp",
+    "setup": "npm install && husky"
+  }
+}
