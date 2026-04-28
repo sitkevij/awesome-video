@@ -225,6 +225,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [ott-packager](https://github.com/cannonbeach/ott-packager) - OTT streaming packager supporting ABR streaming for DASH and HLS.
 - [PHP-FFmpeg-video-streaming](https://github.com/aminyazdanpanah/PHP-FFmpeg-video-streaming) - Package media content for online streaming(DASH and HLS) using FFmpeg.
 - [QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg.
+- - [remove-audio.com](https://remove-audio.com) — Free browser-based tool to remove audio from video files. Local processing via WebAssembly, no uploads, no signup. Supports MP4, MOV, MKV, AVI, WEBM. Batch up to 20 clips.
 - [qtlmovie](https://github.com/qtlmovie/qtlmovie) - A specialized Qt frontend for FFmpeg and other free media tools.
 - [shaka-packager](https://github.com/google/shaka-packager) - A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
 - [Shotcut](https://github.com/mltframework/shotcut) - Free, open source, cross-platform video editor.
