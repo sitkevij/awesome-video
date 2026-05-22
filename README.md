@@ -61,6 +61,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - Free and open source editor for video subtitles.
 - [vtt.js](https://github.com/mozilla/vtt.js) - A JavaScript implementation of the WebVTT specification.
 - [WebVTT](https://www.w3.org/TR/webvtt1/) - WebVTT W3C 'Web Video Text Tracks Format' specification.
+- [WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate) - Desktop app that generates translated subtitles from any video, fully offline. whisper.cpp for speech recognition + local LLM or DeepL/OpenAI/Gemini for translation.
 
 ## Codecs and Encoders
 
