@@ -152,6 +152,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [jMuxer](https://github.com/samirkumardas/jmuxer) - A simple javascript mp4 muxer for non-standard streaming communications protocol.
 - [remotion](https://github.com/remotion-dev/remotion) - Create Videos programmatically with React.
 - [Revideo](https://github.com/redotvideo/revideo) - A Typescript framework for programmatic video creation & editing.
+- [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) - Render 4-6s animated b-roll overlay videos for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok) and landscape YouTube. AI-driven: paste your script into Claude Code / Cursor / Codex, MCP server hands the model tools to write the scene spec and render the mp4. Built on Remotion + Tabler + Lottie. Free, MIT, local.
 
 ### Python
 
