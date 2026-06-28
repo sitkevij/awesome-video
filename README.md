@@ -60,6 +60,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [ccextractor](https://github.com/CCExtractor/ccextractor) - Tool to extract closed captions from video streams.
 - [suba](https://github.com/xy3/suba) - Automatically sync VTT or SRT subtitles with video.
 - [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - Free and open source editor for video subtitles.
+- [TimedSubs](https://timedsubs.com/en/tools/subtitle-checker) - Browser-local SRT/VTT checker with safe line-wrap repair.
 - [vtt.js](https://github.com/mozilla/vtt.js) - A JavaScript implementation of the WebVTT specification.
 - [WebVTT](https://www.w3.org/TR/webvtt1/) - WebVTT W3C 'Web Video Text Tracks Format' specification.
 
