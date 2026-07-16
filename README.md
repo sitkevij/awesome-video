@@ -263,6 +263,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 ## Video Capture and Recording
 
+- [Flowtake](https://github.com/JNX03/Flowtake) - Local-first desktop screen recorder and timeline editor with automatic zoom and local MP4 export.
 - [libcamera](https://libcamera.org/) - Open source camera stack for Linux.
 - [OBS Studio](https://github.com/obsproject/obs-studio) - Free and open source software for video recording and live streaming.
 - [SimpleScreenRecorder](https://github.com/MaartenBaert/ssr) - Screen recorder for Linux with video encoding support.
