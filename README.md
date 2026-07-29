@@ -256,6 +256,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 - [deoldify](https://github.com/jantic/DeOldify) - Deep learning based project for colorizing and restoring old images and video.
 - [OpenCV](https://github.com/opencv/opencv) - Open source computer vision and machine learning software library with extensive video processing capabilities.
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first TypeScript CLI and MCP toolkit for coding-agent-driven video composition, editing, generation, and automatic assembly using editable `plan.json` timelines.
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - Python library for detecting scene changes in videos using computer vision.
 - [tensorflow-io](https://github.com/tensorflow/io) - TensorFlow I/O library for reading and writing video files and working with video datasets.
 - [Video-Summarization](https://github.com/KaiyangZhou/pytorch-vsumm-reinforce) - PyTorch implementation of video summarization using reinforcement learning.
