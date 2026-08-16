@@ -206,6 +206,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 - [Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264 / VVC encoding framework with per scene quality encoding.
 - [Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH library and tools.
+- [capcut-cli](https://github.com/renezander030/capcut-cli) - Edit CapCut and JianYing project drafts from the command line, including subtitles, timing, speed and volume.
 - [easyVmaf](https://github.com/gdavila/easyVmaf) - Python script to easily compute VMAF using FFmpeg. It allows to deinterlace, scale and sync Ref and Distorted video automatically.
 - [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 - [FastlyConvert](https://www.fastlyconvert.com/) - Free online video converter and compressor. Supports MKV to MP4, video compression, video to GIF. Browser-based, no installation required.
