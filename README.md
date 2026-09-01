@@ -58,6 +58,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 - [Aegisub](https://github.com/Aegisub/Aegisub) - Cross-platform advanced subtitle editor.
 - [ccextractor](https://github.com/CCExtractor/ccextractor) - Tool to extract closed captions from video streams.
+- [Picute](https://picute.net/en/tools/subtitle-encoding-converter) - Browser-based tool to repair garbled (mojibake) subtitle files by re-decoding legacy encodings (Shift-JIS, EUC-KR, GB18030, Big5) to UTF-8.
 - [suba](https://github.com/xy3/suba) - Automatically sync VTT or SRT subtitles with video.
 - [Subtitle Edit](https://github.com/SubtitleEdit/subtitleedit) - Free and open source editor for video subtitles.
 - [vtt.js](https://github.com/mozilla/vtt.js) - A JavaScript implementation of the WebVTT specification.
