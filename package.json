@@ -1,16 +1,25 @@
 {
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
   "dependencies": {
     "husky": "^9.1.7"
   },
   "devDependencies": {
-    "markdownlint-cli2": "^0.19.1"
+    "markdownlint-cli2": "^0.23.2"
   },
   "scripts": {
     "prepare": "husky",
-    "test": "npm run lint && npm run lint-readme && npm run shellcheck",
+    "test": "npm run test:unit",
+    "test:unit": "node --test tests/lint-readme.test.js tests/sort-links.test.js",
+    "verify": "node scripts/verify.mjs",
     "lint": "markdownlint-cli2 --config .markdownlint-cli2.jsonc *.md",
-    "lint-readme": "./lint_readme.sh",
-    "shellcheck": "shellcheck lint_readme.sh",
+    "lint-readme": "node scripts/lint-readme/cli.js",
+    "check-links": "node scripts/lint-readme/cli.js --check-links",
+    "sort-readme": "node scripts/lint-readme/sort-cli.js",
+    "sort-readme:check": "node scripts/lint-readme/sort-cli.js --check",
+    "sort-readme:write": "node scripts/lint-readme/sort-cli.js --write",
     "clean": "rm -f urls.tmp urls_result.tmp",
     "setup": "npm install && husky"
   }

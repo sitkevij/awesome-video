@@ -1,4 +1,4 @@
-.PHONY: help install lint lint-readme check shellcheck test clean setup
+.PHONY: help install lint lint-readme check sort-readme test verify clean setup
 
 # Default target
 help:
@@ -6,9 +6,10 @@ help:
 	@echo "  make install      - Install npm dependencies"
 	@echo "  make lint         - Lint markdown files"
 	@echo "  make lint-readme  - Lint README.md format (awesome-list style)"
-	@echo "  make check        - Run documentation checks (whitespace, URLs)"
-	@echo "  make shellcheck   - Run shellcheck on shell scripts"
-	@echo "  make test         - Run all checks (lint, lint-readme, shellcheck, check)"
+	@echo "  make check        - Validate README URL format (no network requests)"
+	@echo "  make sort-readme  - Sort README links alphabetically within each section"
+	@echo "  make test         - Run unit tests"
+	@echo "  make verify       - Run all checks (lint, README, links, tests)"
 	@echo "  make clean        - Remove temporary files"
 	@echo "  make setup        - Install dependencies and setup husky hooks"
 
@@ -22,15 +23,23 @@ lint:
 
 # Lint README.md format
 lint-readme:
-	./lint_readme.sh
+	npm run lint-readme
 
-# Run shellcheck on shell scripts
-shellcheck:
-	shellcheck lint_readme.sh
+# Validate URL format in README.md
+check:
+	npm run check-links
+
+# Sort README links alphabetically
+sort-readme:
+	npm run sort-readme:write
+
+# Run unit tests
+test:
+	npm test
 
 # Run all checks
-test: lint lint-readme shellcheck
-	@echo "All checks passed!"
+verify:
+	npm run verify
 
 # Clean temporary files
 clean:
@@ -40,4 +49,3 @@ clean:
 # Setup project (install dependencies and setup husky)
 setup: install
 	npx husky install || true
-

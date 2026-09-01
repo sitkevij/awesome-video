@@ -208,8 +208,8 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [Av1an](https://github.com/master-of-zen/Av1an) - Cross-platform command-line AV1 / VP9 / HEVC / H264 / VVC encoding framework with per scene quality encoding.
 - [Bento4](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH library and tools.
 - [easyVmaf](https://github.com/gdavila/easyVmaf) - Python script to easily compute VMAF using FFmpeg. It allows to deinterlace, scale and sync Ref and Distorted video automatically.
-- [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 - [FastlyConvert](https://www.fastlyconvert.com/) - Free online video converter and compressor. Supports MKV to MP4, video compression, video to GIF. Browser-based, no installation required.
+- [FFmpeg](http://ffmpeg.org) - A complete, cross-platform solution to record, convert and stream audio and video.
 - [ffmpeg-explorer](https://github.com/antiboredom/ffmpeg-explorer/) - Interactive FFMPEG Command Generator.
 - [Flowblade](https://github.com/jliljebl/flowblade) - Video editor for Linux.
 - [fluster](https://github.com/fluendo/fluster) - Testing framework for decoders conformance.
