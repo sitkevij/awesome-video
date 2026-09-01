@@ -216,6 +216,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [Flowblade](https://github.com/jliljebl/flowblade) - Video editor for Linux.
 - [fluster](https://github.com/fluendo/fluster) - Testing framework for decoders conformance.
 - [gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF.
+- [gottrix](https://gottrix.app/en/mkv-to-mp4) - Browser-based video and audio converter (MKV/MOV/WebM to MP4, video to GIF, and more) using ffmpeg.wasm; runs fully client-side, no uploads.
 - [GStreamer](https://gstreamer.freedesktop.org/) - Pipeline-based multimedia framework for audio and video processing.
 - [HandBrake](https://github.com/HandBrake/HandBrake) - Open source video transcoder with presets for common output formats.
 - [hlstools](https://github.com/muxinc/hlstools/) - Tools for analyzing and processing hls streams.
