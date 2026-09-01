@@ -239,6 +239,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [SVT-VP9](https://github.com/OpenVisualCloud/SVT-VP9) - Scalable Video Technology VP9 encoder.
 - [Timeline Studio](https://github.com/MartinDelophy/ai-video-editor) - Local-first browser video editor with multi-track editing, AI voiceovers, automatic captions, and offline WebCodecs export.
 - [tomcast](https://georgi.unixsol.org/git/gfto/tomcast) - A simple http2multicast daemon designed to work 24/7.
+- [VHS Filter](https://vhsfilter.com/) - Browser tool for adding VHS-style noise, scanlines, tracking, color bleed, and timestamp effects to photos and short videos; exports MP4 or WebM.
 - [video-thumbnail-generator](https://github.com/flavioribeiro/video-thumbnail-generator) - Generate thumbnail sprites from videos.
 - [video-transcoding-api](https://github.com/NYTimes/video-transcoding-api) - Agnostic API to transcode media assets across different cloud services.
 - [vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library.
