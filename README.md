@@ -259,6 +259,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 ## Video AI/ML
 
+- [BeatDesign](https://github.com/BeatAPI/BeatDesign) - Open-source, local-first AI media workbench with a Canvas, short-form video editor, shared Assets, and MCP tools.
 - [deoldify](https://github.com/jantic/DeOldify) - Deep learning based project for colorizing and restoring old images and video.
 - [OpenCV](https://github.com/opencv/opencv) - Open source computer vision and machine learning software library with extensive video processing capabilities.
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first TypeScript CLI and MCP toolkit for coding-agent-driven video composition, editing, generation, and automatic assembly using editable `plan.json` timelines.
