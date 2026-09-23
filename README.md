@@ -242,6 +242,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [video-thumbnail-generator](https://github.com/flavioribeiro/video-thumbnail-generator) - Generate thumbnail sprites from videos.
 - [video-transcoding-api](https://github.com/NYTimes/video-transcoding-api) - Agnostic API to transcode media assets across different cloud services.
 - [vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library.
+- [OpenShorts 开片](https://github.com/jnMetaCode/openshorts) - Local-first open-source short-video pipeline: give it a topic, get a finished video — script, footage, voiceover, subtitles. First run costs nothing.
 
 ## Streaming Protocols
 
