@@ -216,6 +216,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [ffmpeg-explorer](https://github.com/antiboredom/ffmpeg-explorer/) - Interactive FFMPEG Command Generator.
 - [Flowblade](https://github.com/jliljebl/flowblade) - Video editor for Linux.
 - [fluster](https://github.com/fluendo/fluster) - Testing framework for decoders conformance.
+- [GifGlide](https://gifglide.com) - Browser video to GIF converter.
 - [gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF.
 - [GStreamer](https://gstreamer.freedesktop.org/) - Pipeline-based multimedia framework for audio and video processing.
 - [HandBrake](https://github.com/HandBrake/HandBrake) - Open source video transcoder with presets for common output formats.
