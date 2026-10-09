@@ -222,7 +222,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [hlstools](https://github.com/muxinc/hlstools/) - Tools for analyzing and processing hls streams.
 - [Kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor by KDE.
 - [lossless-cut](https://github.com/mifi/lossless-cut) - Cross platform GUI tool for lossless trimming / cutting of video and audio files using ffmpeg.
-- [mcast2http](https://github.com/lkarsten/mcast2http) - Multicast to HTTP relay server
+- [mcast2http](https://github.com/lkarsten/mcast2http) - Multicast to HTTP relay server.
 - [mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use live media server and media proxy.
 - [MLT](https://github.com/mltframework/mlt) - MLT Multimedia Framework.
 - [multistreamer](https://github.com/jprjr/multistreamer) - A webapp for publishing video to multiple streaming services at once.
