@@ -58,6 +58,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 ## Captions and Subtitles
 
 - [Aegisub](https://github.com/Aegisub/Aegisub) - Cross-platform advanced subtitle editor.
+- [Arcmira](https://arcmira.com) - YouTube transcript search with timestamped source passages through an API and MCP server. Hosted service with free and paid plans.
 - [ccextractor](https://github.com/CCExtractor/ccextractor) - Tool to extract closed captions from video streams.
 - [Picute](https://picute.net/en/tools/subtitle-encoding-converter) - Browser-based tool to repair garbled (mojibake) subtitle files by re-decoding legacy encodings (Shift-JIS, EUC-KR, GB18030, Big5) to UTF-8.
 - [suba](https://github.com/xy3/suba) - Automatically sync VTT or SRT subtitles with video.
