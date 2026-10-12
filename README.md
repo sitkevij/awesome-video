@@ -265,6 +265,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [OpenCV](https://github.com/opencv/opencv) - Open source computer vision and machine learning software library with extensive video processing capabilities.
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first TypeScript CLI and MCP toolkit for coding-agent-driven video composition, editing, generation, and automatic assembly using editable `plan.json` timelines.
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - Python library for detecting scene changes in videos using computer vision.
+- [shortshort](https://www.shortshort.io) - Hosted tool that selects complete-sentence passages from a long video and renders them as 9:16 1080x1920 MP4 clips with word-level captions.
 - [tensorflow-io](https://github.com/tensorflow/io) - TensorFlow I/O library for reading and writing video files and working with video datasets.
 - [Video-Summarization](https://github.com/KaiyangZhou/pytorch-vsumm-reinforce) - PyTorch implementation of video summarization using reinforcement learning.
 - [yolov5](https://github.com/ultralytics/yolov5) - Real-time object detection in video streams using YOLOv5.
