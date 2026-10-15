@@ -232,8 +232,8 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [ott-packager](https://github.com/cannonbeach/ott-packager) - OTT streaming packager supporting ABR streaming for DASH and HLS.
 - [PHP-FFmpeg-video-streaming](https://github.com/aminyazdanpanah/PHP-FFmpeg-video-streaming) - Package media content for online streaming(DASH and HLS) using FFmpeg.
 - [QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg.
-- - [remove-audio.com](https://remove-audio.com) — Free browser-based tool to remove audio from video files. Local processing via WebAssembly, no uploads, no signup. Supports MP4, MOV, MKV, AVI, WEBM. Batch up to 20 clips.
 - [qtlmovie](https://github.com/qtlmovie/qtlmovie) - A specialized Qt frontend for FFmpeg and other free media tools.
+- [remove-audio.com](https://remove-audio.com) - Browser-based tool that removes the audio track from video files locally with FFmpeg.wasm.
 - [shaka-packager](https://github.com/google/shaka-packager) - A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
 - [Shotcut](https://github.com/mltframework/shotcut) - Free, open source, cross-platform video editor.
 - [SVT-AV1](https://github.com/OpenVisualCloud/SVT-AV1) - Scalable Video Technology AV1 encoder.
@@ -265,6 +265,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [OpenCV](https://github.com/opencv/opencv) - Open source computer vision and machine learning software library with extensive video processing capabilities.
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first TypeScript CLI and MCP toolkit for coding-agent-driven video composition, editing, generation, and automatic assembly using editable `plan.json` timelines.
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - Python library for detecting scene changes in videos using computer vision.
+- [remove-audio.com Background Music Remover](https://remove-audio.com/tools/remove-music-from-video) - Browser tool that separates speech from background music in a video with an AI model running on WebGPU, so the file is not uploaded.
 - [tensorflow-io](https://github.com/tensorflow/io) - TensorFlow I/O library for reading and writing video files and working with video datasets.
 - [Video-Summarization](https://github.com/KaiyangZhou/pytorch-vsumm-reinforce) - PyTorch implementation of video summarization using reinforcement learning.
 - [yolov5](https://github.com/ultralytics/yolov5) - Real-time object detection in video streams using YOLOv5.
