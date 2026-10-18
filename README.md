@@ -267,6 +267,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - Python library for detecting scene changes in videos using computer vision.
 - [tensorflow-io](https://github.com/tensorflow/io) - TensorFlow I/O library for reading and writing video files and working with video datasets.
 - [Video-Summarization](https://github.com/KaiyangZhou/pytorch-vsumm-reinforce) - PyTorch implementation of video summarization using reinforcement learning.
+- [VideoGen](https://docs.videogen.io/) - Hosted API for generating editable, narrated videos from scripts, voiceovers, and slides, with TypeScript and Python clients.
 - [yolov5](https://github.com/ultralytics/yolov5) - Real-time object detection in video streams using YOLOv5.
 
 ## Video Capture and Recording
