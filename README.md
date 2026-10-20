@@ -65,6 +65,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [vtt.js](https://github.com/mozilla/vtt.js) - A JavaScript implementation of the WebVTT specification.
 - [WebVTT](https://www.w3.org/TR/webvtt1/) - WebVTT W3C 'Web Video Text Tracks Format' specification.
 - [WhisperSubs](https://github.com/GeiserX/whisper-subs) - Jellyfin plugin that writes subtitles for library titles that have none, by transcribing their audio with local Whisper models.
+- [Yap Audio to Text](https://yapapp.cc/audio-to-text) - Free browser-based tool that transcribes audio and video files into SRT or VTT subtitles on the user's computer, without uploading them.
 
 ## Codecs and Encoders
 
