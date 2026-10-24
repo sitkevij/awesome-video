@@ -231,6 +231,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [Olive](https://github.com/olive-editor/olive) - Free non-linear video editor.
 - [ott-packager](https://github.com/cannonbeach/ott-packager) - OTT streaming packager supporting ABR streaming for DASH and HLS.
 - [PHP-FFmpeg-video-streaming](https://github.com/aminyazdanpanah/PHP-FFmpeg-video-streaming) - Package media content for online streaming(DASH and HLS) using FFmpeg.
+- [pro-motion](https://github.com/jack-reson8/pro-motion) - Claude Code skill that renders audio-first motion-graphics launch and brand films in code (canvas to MP4) and cuts them to the music.
 - [QtAV](https://github.com/wang-bin/QtAV) - A cross-platform multimedia framework based on Qt and FFmpeg.
 - - [remove-audio.com](https://remove-audio.com) — Free browser-based tool to remove audio from video files. Local processing via WebAssembly, no uploads, no signup. Supports MP4, MOV, MKV, AVI, WEBM. Batch up to 20 clips.
 - [qtlmovie](https://github.com/qtlmovie/qtlmovie) - A specialized Qt frontend for FFmpeg and other free media tools.
