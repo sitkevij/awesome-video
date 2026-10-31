@@ -39,6 +39,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 ## Analysis tools
 
 - [bitrate-plotter](https://github.com/CrypticSignal/bitrate-plotter) - Plots a graph showing the bitrate every second or the bitrate of every GOP.
+- [GenFlick Scene Cut Detector](https://genflick.com/tools/advanced/scene-cut-detector) - Free in-browser tool that finds every hard cut and scene change in a video, showing the frames on either side of each cut and how long each shot runs, with no upload needed.
 - [MpegTsAnalyzer](https://github.com/small-teton/MpegTsAnalyzer) - Analyzer of MPEG2 Transport Stream.
 - [plot-av](https://github.com/wangyoucao577/plot-av) - Plot Audio/Video streams for better insights.
 - [QCtools](https://github.com/bavc/qctools) - Quality Control Tools for Video Preservation, helps users to analyze and understand digitized video files.
