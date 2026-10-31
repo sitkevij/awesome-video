@@ -221,6 +221,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [GStreamer](https://gstreamer.freedesktop.org/) - Pipeline-based multimedia framework for audio and video processing.
 - [HandBrake](https://github.com/HandBrake/HandBrake) - Open source video transcoder with presets for common output formats.
 - [hlstools](https://github.com/muxinc/hlstools/) - Tools for analyzing and processing hls streams.
+- [imgmov Last-Frame Extractor](https://imgmov.com/extract-last-frame-from-video) - Browser-based tool to select a frame near a video's end and export it as PNG, with local video processing.
 - [Kdenlive](https://github.com/KDE/kdenlive) - Free and open source video editor by KDE.
 - [lossless-cut](https://github.com/mifi/lossless-cut) - Cross platform GUI tool for lossless trimming / cutting of video and audio files using ffmpeg.
 - [lottie-render](https://github.com/steven-panxd/lottie-render) - Render Lottie JSON animations to MP4 using Playwright and FFmpeg, as a Node.js library, command-line tool, or self-hosted HTTP service.
