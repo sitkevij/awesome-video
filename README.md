@@ -267,6 +267,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - Python library for detecting scene changes in videos using computer vision.
 - [tensorflow-io](https://github.com/tensorflow/io) - TensorFlow I/O library for reading and writing video files and working with video datasets.
 - [Video-Summarization](https://github.com/KaiyangZhou/pytorch-vsumm-reinforce) - PyTorch implementation of video summarization using reinforcement learning.
+- [webgpu-video-upscaler](https://github.com/flreey/webgpu-video-upscaler) - In-browser video upscaling with Real-ESRGAN on WebGPU via ONNX Runtime Web, keeping the audio track.
 - [yolov5](https://github.com/ultralytics/yolov5) - Real-time object detection in video streams using YOLOv5.
 
 ## Video Capture and Recording
