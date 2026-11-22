@@ -262,6 +262,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 ## Video AI/ML
 
 - [deoldify](https://github.com/jantic/DeOldify) - Deep learning based project for colorizing and restoring old images and video.
+- [motion-skills](https://github.com/iart-ai/motion-skills) - Open-source agent skills that teach coding agents to build motion graphics and video with Remotion, GSAP, WebGL and Manim, including kinetic typography, data-driven charts and explainers.
 - [OpenCV](https://github.com/opencv/opencv) - Open source computer vision and machine learning software library with extensive video processing capabilities.
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - Local-first TypeScript CLI and MCP toolkit for coding-agent-driven video composition, editing, generation, and automatic assembly using editable `plan.json` timelines.
 - [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) - Python library for detecting scene changes in videos using computer vision.
