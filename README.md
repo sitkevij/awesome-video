@@ -198,6 +198,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [av-scenechange](https://github.com/rust-av/av-scenechange) - Scene change detection library for video encoding.
 - [mp4parse-rust](https://github.com/mozilla/mp4parse-rust) - Parser for ISO Base Media Format aka video/mp4 written in Rust.
 - [rust-av](https://github.com/rust-av/rust-av) - Multimedia toolkit written in pure Rust.
+- [ultrafast](https://github.com/ultrafastmov/ultrafast) - GPU video engine that renders JSON scene graphs (shaders, 3D, type, footage) to H.264, HEVC or ProRes without a browser.
 
 ## Metadata
 
