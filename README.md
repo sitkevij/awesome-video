@@ -241,6 +241,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 - [SVT-VP9](https://github.com/OpenVisualCloud/SVT-VP9) - Scalable Video Technology VP9 encoder.
 - [Timeline Studio](https://github.com/MartinDelophy/ai-video-editor) - Local-first browser video editor with multi-track editing, AI voiceovers, automatic captions, and offline WebCodecs export.
 - [tomcast](https://georgi.unixsol.org/git/gfto/tomcast) - A simple http2multicast daemon designed to work 24/7.
+- [Video Compressor](https://bestlatestapps.com/tools/video-compressor/) - Browser tool that shrinks a video toward a target size such as 16 MB or 25 MB, or to a chosen quality, and downloads an MP4.
 - [video-thumbnail-generator](https://github.com/flavioribeiro/video-thumbnail-generator) - Generate thumbnail sprites from videos.
 - [video-transcoding-api](https://github.com/NYTimes/video-transcoding-api) - Agnostic API to transcode media assets across different cloud services.
 - [vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library.
