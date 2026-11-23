@@ -38,6 +38,8 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 ## Analysis tools
 
+- [ViralForge](https://github.com/fendouai/ViralForge) - CLI and MCP tools for local video structure analysis and editable video projects.
+
 - [bitrate-plotter](https://github.com/CrypticSignal/bitrate-plotter) - Plots a graph showing the bitrate every second or the bitrate of every GOP.
 - [MpegTsAnalyzer](https://github.com/small-teton/MpegTsAnalyzer) - Analyzer of MPEG2 Transport Stream.
 - [plot-av](https://github.com/wangyoucao577/plot-av) - Plot Audio/Video streams for better insights.
