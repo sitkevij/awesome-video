@@ -152,6 +152,7 @@ Please take a look at the [contribution guidelines](https://github.com/sitkevij/
 
 - [channel-engine](https://github.com/Eyevinn/channel-engine) - VOD to Live Engine Library.
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Javascript FFmpeg bindings, port of FFmpeg with Emscripten.
+- [HyperFrames](https://github.com/heygen-com/hyperframes) - Open-source AI video editor and HTML-to-video framework, an alternative to Remotion, that renders HTML, CSS and JavaScript animations to MP4 deterministically with headless Chrome and FFmpeg.
 - [jMuxer](https://github.com/samirkumardas/jmuxer) - A simple javascript mp4 muxer for non-standard streaming communications protocol.
 - [remotion](https://github.com/remotion-dev/remotion) - Create Videos programmatically with React.
 - [Revideo](https://github.com/redotvideo/revideo) - A Typescript framework for programmatic video creation & editing.
